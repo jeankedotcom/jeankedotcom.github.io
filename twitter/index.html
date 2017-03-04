@@ -32,7 +32,14 @@
     <![endif]-->
     </head>
 <body>
-<div class="mdl-layout mdl-layout--fixed-header mdl-layout--no-desktop-drawer-button">
+<div id="layoutTop" class="mdl-layout mdl-layout--fixed-header mdl-layout--no-desktop-drawer-button">
+    <script>
+        var isChrome = /Chrome/.test(navigator.userAgent) && /Google Inc/.test(navigator.vendor);
+        console.log(isChrome);
+        if (!isChrome)
+            layoutTop.className += layoutTop.className ? ' mdl-js-layout' : 'mdl-js-layout';
+    </script>
+
     <header class="mdl-layout__header">
         <div class="mdl-layout__header-row">
             <span class="mdl-layout-title logo"><span class="combinant-icons-logo"></span></span>
