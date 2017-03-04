@@ -26,7 +26,7 @@
       
       <guid>https://www.combinant.be/twitter/</guid>
       <description>&lt;a class=&#34;twitter-timeline&#34; data-theme=&#34;light&#34; data-link-color=&#34;#E81C4F&#34; href=&#34;https://twitter.com/combinant&#34;&gt;Tweets by Combinant&lt;/a&gt;
-&lt;script src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;script defer src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 </description>
     </item>
     
