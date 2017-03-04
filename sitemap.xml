@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://www.combinant.be/contact/</loc>
+    <lastmod>2017-03-03T16:28:47+01:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.combinant.be/twitter/</loc>
+    <lastmod>2017-03-03T16:28:42+01:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.combinant.be/nieuws/</loc>
+    <lastmod>2017-03-03T16:28:37+01:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.combinant.be/cetis/</loc>
+    <lastmod>2017-03-03T16:28:32+01:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.combinant.be/treinnetwerk/</loc>
+    <lastmod>2017-03-03T16:28:00+01:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.combinant.be/bedrijfsinfo/</loc>
+    <lastmod>2017-03-03T16:27:51+01:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.combinant.be/home/</loc>
+    <lastmod>2017-03-03T16:26:59+01:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.combinant.be/privacy-en-voorwaarden/</loc>
+    <lastmod>2017-03-03T16:54:11+01:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.combinant.be/</loc>
+    <lastmod>2017-03-03T16:28:47+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
