@@ -33,8 +33,8 @@ Za     08:00 - 12:00&lt;/pre&gt;
         &lt;/a&gt;
     &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;iframe src=&#34;http://maps.google.com/maps?f=q&amp;amp;source=s_q&amp;amp;hl=nl&amp;amp;geocode=&amp;amp;q=combinant,+antwerpen&amp;amp;sll=37.0625,-95.677068&amp;amp;sspn=34.999041,86.220703&amp;amp;ie=UTF8&amp;amp;hq=combinant,&amp;amp;hnear=Antwerpen,+Belgi%C3%AB&amp;amp;ll=51.489079,4.356079&amp;amp;spn=0.409274,1.347198&amp;amp;z=10&amp;amp;iwloc=A&amp;amp;cid=10134849359270201842&amp;amp;output=embed&#34; height=&#34;450&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; allowtransparency=&#34;65535&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe src=&#34;http://www.meteo.be/services/widget/.?postcode=2000&amp;amp;nbDay=2&amp;amp;type=3&amp;amp;lang=nl&amp;amp;bgImageId=14&amp;amp;bgColor=567cd2&amp;amp;scrolChoice=0&amp;amp;colorTempMax=A5D6FF&amp;amp;colorTempMin=ffffff&#34; height=&#34;200&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&#34;https://maps.google.com/maps?f=q&amp;amp;source=s_q&amp;amp;hl=nl&amp;amp;geocode=&amp;amp;q=combinant,+antwerpen&amp;amp;sll=37.0625,-95.677068&amp;amp;sspn=34.999041,86.220703&amp;amp;ie=UTF8&amp;amp;hq=combinant,&amp;amp;hnear=Antwerpen,+Belgi%C3%AB&amp;amp;ll=51.489079,4.356079&amp;amp;spn=0.409274,1.347198&amp;amp;z=10&amp;amp;iwloc=A&amp;amp;cid=10134849359270201842&amp;amp;output=embed&#34; height=&#34;450&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; allowtransparency=&#34;65535&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&#34;https://www.meteo.be/services/widget/.?postcode=2000&amp;amp;nbDay=2&amp;amp;type=3&amp;amp;lang=nl&amp;amp;bgImageId=14&amp;amp;bgColor=567cd2&amp;amp;scrolChoice=0&amp;amp;colorTempMax=A5D6FF&amp;amp;colorTempMin=ffffff&#34; height=&#34;200&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
